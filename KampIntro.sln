@@ -17,13 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTıpler", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialWork", "SpecialWork\SpecialWork.csproj", "{D1C0EDF4-A40C-46EC-8184-ABC82A87EE86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{3C745CF3-EC6F-4F61-9C64-C8341B86CA4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{3C745CF3-EC6F-4F61-9C64-C8341B86CA4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6B20B249-DB98-4E13-9B05-064998783A16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6B20B249-DB98-4E13-9B05-064998783A16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{25C81016-8B66-47E3-A369-4F171BA33590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{25C81016-8B66-47E3-A369-4F171BA33590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{E75F673D-EBBB-442A-AB38-C491DB74CA0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{E75F673D-EBBB-442A-AB38-C491DB74CA0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{CD7858F6-F5E4-4F6D-B493-5B015E59490F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{059D50EB-1EDE-4FD1-8EA9-458576E5891F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{788CA03F-E85E-4E9C-B970-46CE77C6DE55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{E75F673D-EBBB-442A-AB38-C491DB74CA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E75F673D-EBBB-442A-AB38-C491DB74CA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E75F673D-EBBB-442A-AB38-C491DB74CA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7858F6-F5E4-4F6D-B493-5B015E59490F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7858F6-F5E4-4F6D-B493-5B015E59490F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7858F6-F5E4-4F6D-B493-5B015E59490F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7858F6-F5E4-4F6D-B493-5B015E59490F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059D50EB-1EDE-4FD1-8EA9-458576E5891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059D50EB-1EDE-4FD1-8EA9-458576E5891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059D50EB-1EDE-4FD1-8EA9-458576E5891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059D50EB-1EDE-4FD1-8EA9-458576E5891F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788CA03F-E85E-4E9C-B970-46CE77C6DE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788CA03F-E85E-4E9C-B970-46CE77C6DE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788CA03F-E85E-4E9C-B970-46CE77C6DE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788CA03F-E85E-4E9C-B970-46CE77C6DE55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
